@@ -1,0 +1,12 @@
+= Authentification et autorisation décentralisée avec JWT et Macaroons
+Julien Tanguy <julien.tanguy@jhome.fr>
+v0.1, 2018-04-02: Préparation
+
+
+== Objectif du talk
+
+* Avoir une idée basique de ce que sont les JWT et Macarons
+* Comprendre la différence entre authentification et autorisation
+* Comprendre la différence entre les deux
+
+
