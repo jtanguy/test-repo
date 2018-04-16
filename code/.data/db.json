@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "username": "jtanguy",
+      "password": "testtest"
+    },
+    {
+      "username": "evil",
+      "password": "testtest"
+    }
+  ],
+  "files": [
+    {
+      "id": "b8c76e719603d8c67fae0551d4e310ad",
+      "name": "Julien NB.jpg",
+      "path": "uploads/b8c76e719603d8c67fae0551d4e310ad",
+      "mimetype": "image/jpeg",
+      "size": 261412,
+      "owner": "jtanguy"
+    },
+    {
+      "id": "eddddab404565c39d59b2259bbb9233b",
+      "name": "1-fYlGuGXL2chUb4sYy54DPw.png",
+      "path": "uploads/eddddab404565c39d59b2259bbb9233b",
+      "mimetype": "image/png",
+      "size": 332408,
+      "owner": "jtanguy"
+    }
+  ]
+}

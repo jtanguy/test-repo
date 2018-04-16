@@ -10,3 +10,9 @@ v0.1, 2018-04-02: Préparation
 * Comprendre la différence entre les deux
 
 
+== Alternatives (non explorées)
+
+* https://github.com/fernet/spec[Fernet]
+* https://paseto.io[Paseto]
+* https://github.com/zcred[Zcred]
+

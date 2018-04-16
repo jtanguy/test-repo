@@ -1,0 +1,9 @@
+mixin image(image)
+  figure
+    img(src='/' + image.path, alt=image.name, height=350)
+    figcaption
+      p Name: #{image.name}
+      p
+        a(href="/view/"+image.id) View
+      if block
+        block

@@ -1,0 +1,13 @@
+{
+  "alg": "HS256",
+  "typ": "JWT"
+}
+{
+  "jti": "c2e56471-9241-44bc-a6be-6ad3763d2847",
+  "sub": "jtanguy",
+  "exp": 1524080400,
+  "name": "Julien Tanguy",
+  "role": ["SPEAKER"],
+  "isAdmin": false
+}
+nM7tTFMVo9YmJmwoiXn69C-R_AFm0m2EJBS-lKpz30w
